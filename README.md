@@ -1,0 +1,2 @@
+# TradePulse
+Trading Journal
